@@ -1,0 +1,257 @@
+.maindiv{
+	height: 700px;
+	width: 85%;
+	/*background-color: red;*/
+	margin-left:159px;
+}
+.headerdiv{
+	height: 8em;
+	width: 100%;
+	overflow: visible;
+	background-color:  #080A0C;
+	/*background-color: pink;*/
+	margin: 3px;
+	border: 2px;
+}
+.logoimgdiv{
+	height: 4em;
+	width: 13.6em;
+	/*background-color: green;*/
+	margin: 2.8em 0.1em 0em 0.1em;
+	float: left;
+}
+.menudiv{
+	height: auto;
+	width: auto;
+	margin: 4% 0% 0% 2%;
+	/*background-color:purple;*/
+	float: left;
+	/*padding: 10px 0px 0px 40px;*/
+}
+.bodydiv{
+	height: 100%;
+	width: 100%;
+	overflow: none;
+	/*background-color: pink;*/
+	margin-left: 3px;
+	border: 2px;
+
+}
+.footerdiv{
+	height: auto;
+	width: 100%;
+	/*background-color: purple;*/
+	margin:0% 0% 0% 3%;
+	border: 2%;
+
+}
+.h5{
+	font-size: 10px;
+	color: white;
+	/*text-align: bottom;*/
+}
+.image_home{
+	height: auto;
+	width: 100%;
+	/*background-color: red;*/
+}
+.div_social{
+	height: 19%;
+	width: 2.6%;
+	float: left;
+	/*background-color: red;*/
+	margin-top: 10%;
+	margin-right: 0.5%;
+}
+.img_social{
+	height: 2em;
+	width: 1.8em;
+	/*margin-bottom: 2px;*/
+}
+.div_current_page{
+	height: 30px;
+	width: 1000px;
+	/*background-color: red;*/
+	float: left;
+}
+.h2_stat{
+	font-size: 10px;
+	padding: 0px;
+	color: white;
+}
+.a_stat{
+	text-decoration: none;
+
+	/*font-family: monospace;*/
+	color: red;
+}
+.bodydiv_gallery{
+	height: 100%;
+	width: 100%;
+	overflow: scroll;
+	/*background-color: purple;*/*/
+	margin-left: 0.1%;
+	/*border: 2px;*/
+
+}
+.img_gallery{
+	height: 12.5em;
+	width: 23.8em;
+	margin-left: 0.1%: 
+}
+/*.img_gallery_temp{
+	height: 20%;
+	width: 300px;
+}*/
+.div_current_page_gallery{
+	height: 3.5%;
+	width: 95%;
+/*	background-color: red;*/
+	float: right;
+}
+.div_social_gallery{
+	height: 19%;
+	width: 2.6%;
+	float: left;
+	/*background-color: red;*/
+	margin-top: 12%;
+	margin-bottom: 100%; 
+	margin-right: 0.1%;
+}
+/*.image_new_page{
+	height: 500px;
+	width: 500px;
+	background-color: red;
+}*/
+.centimg{
+	height: 250px;
+	width: 540px;
+	/*margin: 0px 5px 5px 0px;*/
+	
+}
+.side_panel{
+	height: auto;
+	width: 40%;
+	float: right;
+	color: white;
+/*	background-color: green;*/
+	margin: 15px;
+}
+.img_small_for_accomodation{
+	height: 100px;
+	width: 150px;
+}
+.left_panel_aside{
+	height: auto;
+	width: auto;
+	/*background-color: pink;*/
+	float: left;
+	margin: 2px;
+	color: white;
+}
+.div_for_loop{
+	height: auto;
+	width: auto;
+}
+img.resize {
+  width:150px;
+  height:100px;
+}
+.dev_img_space{
+	width:400px;
+	height: 200px;
+	float: left;
+}
+img.developer {
+  width:200px;
+  height:170px;
+}
+.developer_logo{
+	width: 1140px;
+	height: 130px;
+	/*background-color: red;*/
+}
+.developer_div{
+	width: 1140px;
+	height: 180px;
+/*	background-color: red;
+*/}
+.developer_name{
+	font-size: 20px;
+	color: red;
+}
+.img_radius{
+	border-radius: 30px;
+}
+.h2_1{
+	font-size: 15px;
+	padding: 0px;
+	color: white;
+}
+.div_social_dev{
+	height: 400px;
+	width: 30px;
+	float: left;
+	/*background-color: red;*/
+	margin-top: 250px;
+	margin-right: 5px;
+}
+.div_prgmdtl{
+	height: 300px;
+	width: 900px;
+	float: left;
+	margin-left: 200px;
+	/*background-color: green;*/
+}
+.about_us{
+	height: 100px;
+	width: 200px;
+	/*color: white;*/
+	/*float:right;*/
+}
+.lorem_text{
+	color: white;
+}
+.about_us_compactbox
+{
+	height: 300px;
+	width: 1200px;
+}
+.loop_for_gallery{
+	height: 26.8%;
+	width: 29.3%;
+	/*background-color: pink;*/
+	float: left;
+	margin: 0.5%;
+	margin-bottom: 2%;
+}
+.div_img_home{
+	height: 70%;
+	width: 90%;
+	background-color: green;
+	float: left;
+}
+/*.div_img_home img {  
+    padding: 15px;  
+    border:  1px solid #ccc;  
+    background-color: #eee;  
+    width:  80em; 
+    height: 40em; 
+    top:  0; 
+    left: 0 
+} */
+.slider {  
+    height:  100%;  
+    width:   100%;  
+    padding: 0;  
+    margin:  0;  
+} 
+.slider img {  
+   /* padding: 15px;  
+    border:  1px solid #ccc;  
+    background-color: #eee;  */
+    width:  100%; 
+    height: 100%; 
+    top:  0; 
+    left: 0 
+} 

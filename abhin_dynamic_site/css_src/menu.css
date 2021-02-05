@@ -1,0 +1,145 @@
+ul{
+	margin: 0px;
+	padding: 0px;
+	font-size: 17px;
+	list-style-type: none;
+}
+ul li
+{
+	background-color:#080A0C;
+	/*background-color: purple;*/
+	width: 9.2em;
+	height: 2em;
+	float: left;
+	line-height: 2em;
+	/*border: 1px solid white;*/
+	text-align: center;
+}
+ul li a{
+	text-decoration: none;
+	color: #F6990F;
+	display: block;
+}
+ul li a span {
+	position: relative;
+	display: inline-block;
+	padding: 0 14px;
+	background: #080a0c;
+	-webkit-transition: -webkit-transform 0.3s;
+	-moz-transition: -moz-transform 0.3s;
+	transition: transform 0.3s;
+	-webkit-transform-origin: 50% 0;
+	-moz-transform-origin: 50% 0;
+	transform-origin: 50% 0;
+	-webkit-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+}
+.csstransforms3d ul li a span::before {
+	position: absolute;
+	top: 100%;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: green;
+	content: attr(data-hover);
+	-webkit-transition: background 0.3s;
+	-moz-transition: background 0.3s;
+	transition: background 0.3s;
+	-webkit-transform: rotateX(-90deg);
+	-moz-transform: rotateX(-90deg);
+	transform: rotateX(-90deg);
+	-webkit-transform-origin: 50% 0;
+	-moz-transform-origin: 50% 0;
+	transform-origin: 50% 0;
+}
+ul a:hover span,
+ul a:focus span {
+	-webkit-transform: rotateX(90deg) translateY(-22px);
+	-moz-transform: rotateX(90deg) translateY(-22px);
+	transform: rotateX(90deg) translateY(-22px);
+}
+
+.csstransforms3d ul a:hover span::before,
+.csstransforms3d ul a:focus span::before {
+	background: green;	
+}
+
+ul li a:hover{
+display: block;
+	background-color: green;
+} 
+ul li ul li{
+display: none;
+
+} 
+
+
+ul li:hover ul li {
+	display: block;
+}
+.active{
+	background-color: green;
+}
+ol{
+
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+ol li
+{
+	background-color: #080a0c;
+	width: auto;
+	height: auto;
+	float: right;
+	line-height: auto;
+	/*border: 1px solid white;*/
+	text-align: center;
+}
+ol li a{
+	text-decoration: none;
+	color: white;
+	/*display: block;*/
+}
+ol li a:hover{
+display: block;
+	background-color:red;
+}
+ol li ol li{
+display: none;
+
+}
+ol li:hover ol li {
+	display: block;
+}
+
+
+
+/* Page content */
+/*.content {
+  padding: auto;
+}
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+ /* width: 100%;*/
+  height: auto;
+	width: auto;
+	margin: 5% 0% 0% 17%;
+	background-color:purple;
+	float: left;
+}
+
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 60px;
+}*/
+
+
+
+
+

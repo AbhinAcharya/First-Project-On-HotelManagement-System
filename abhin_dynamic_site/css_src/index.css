@@ -1,0 +1,288 @@
+.maindiv{
+		height: 600px;
+	width: 1301px;
+	/*background-color: red;*/
+	margin:0px;
+	overflow: none;
+}
+.headerdiv{
+	height: 100px;
+	width: 1328px;
+	background-color: #080A0C;
+	margin: 3px;
+	border: 2px;
+}
+.logoimgdiv{
+	height: 80px;
+	width: 220px;
+	/*background-color: green*/;
+	margin: 13px 5px 5px 60px;
+	float: left;
+}
+.menudiv{
+	height: 40px;
+	width: 800px;
+	margin: 25px 5px 0px 75px;
+	/*background-color: pink;*/
+	float: left;
+
+	padding: 10px 0px 0px 40px;
+}
+.bodydiv{
+	height: 100%;
+	width: 100%;
+	overflow: none;
+	/*background-color: #927344 ;*/
+	margin-left: 3px;
+	border: 2px;
+
+}
+.footerdiv{
+	height: auto;
+	width: 100%;
+	/*background-color: purple;*/
+	margin:0% 0% 0% 3%;
+	border: 2%;
+
+}
+
+.h5{
+	font-size: 10px;
+	color: white;
+	/*text-align: bottom;*/
+}
+.image_home{
+	height: 550px;
+	width: 1200px;
+	/*background-color: red;*/
+}
+.div_social{
+	height: 19%;
+	width: 2.6%;
+	float: left;
+	/*background-color: red;*/
+	margin-top: 10%;
+	margin-right: 0.5%;
+}
+.img_social{
+	height: 2em;
+	width: 1.8em;
+	/*margin-bottom: 2px;*/
+}
+.div_current_page{
+	height: 30px;
+	width: 1000px;
+	/*background-color: red;*/
+	float: left;
+}
+.h2_stat{
+	font-size: 10px;
+	padding: 0px;
+	color: white;
+}
+.a_stat{
+	text-decoration: none;
+
+	/*font-family: monospace;*/
+	color: red;
+}
+.bodydiv_gallery{
+	height: 100%;
+	width: 100%;
+	overflow: scroll;
+	/*background-color: purple;*/*/
+	margin-left: 0.1%;
+	/*border: 2px;*/
+
+}
+.img_gallery{
+	height: 12.5em;
+	width: 23.8em;
+	margin-left: 0.1%;
+	margin-bottom: 15px; 
+}
+/*.img_gallery_temp{
+	height: 20%;
+	width: 300px;
+}*/
+.div_current_page_gallery{
+	height: 3.5%;
+	width: 95%;
+/*	background-color: red;*/
+	float: right;
+}
+.div_social_gallery{
+	height: 19%;
+	width: 2.6%;
+	float: left;
+	/*background-color: red;*/
+	margin-top: 12%;
+	margin-bottom: 100%; 
+	margin-right: 0.1%;
+}
+/*.image_new_page{
+	height: 500px;
+	width: 500px;
+	background-color: red;
+}*/
+.centimg{
+	height: 250px;
+	width: 540px;
+	/*margin: 0px 5px 5px 0px;*/
+	
+}
+.side_panel{
+	height: auto;
+	width: 40%;
+	float: right;
+	color: white;
+/*	background-color: green;*/
+	margin: 15px;
+}
+.img_small_for_accomodation{
+	height: 100px;
+	width: 150px;
+}
+.left_panel_aside{
+	height: auto;
+	width: auto;
+	/*background-color: pink;*/
+	float: left;
+	margin: 2px;
+	color: white;
+}
+.div_for_loop{
+	height: auto;
+	width: auto;
+
+}
+img.resize {
+  width:150px;
+  height:100px;
+}
+.dev_img_space{
+	width:400px;
+	height: 200px;
+	float: left;
+}
+img.developer {
+  width:200px;
+  height:170px;
+}
+.developer_logo{
+	width: 1140px;
+	height: 130px;
+	/*background-color: red;*/
+}
+.developer_div{
+	width: 1140px;
+	height: 180px;
+/*	background-color: red;
+*/}
+.developer_name{
+	font-size: 20px;
+	color: red;
+}
+.img_radius{
+	border-radius: 30px;
+}
+.h2_1{
+	font-size: 15px;
+	padding: 0px;
+	color: white;
+}
+.div_social_dev{
+	height: 400px;
+	width: 30px;
+	float: left;
+	/*background-color: red;*/
+	margin-top: 250px;
+	margin-right: 5px;
+}
+.div_prgmdtl{
+	height: 300px;
+	width: 900px;
+	float: left;
+	margin-left: 200px;
+	/*background-color: green;*/
+}
+.about_us{
+	height: 300px;
+	width: 800px;
+	margin-left: 150px;
+	/*color: white;*/
+	/*float:right;*/
+}
+.maindiv_for_about_us{
+	height: 900px;
+	width: 1320px;
+/*	background-color: pink;*/
+}
+.lorem_text{
+	color: white;
+	/*margin-left: 50px;*/
+}
+.about_us_compactbox
+{
+	height: 520px;
+	width: 1330px;
+	color: white;
+/*	background-color: purple;*/
+}
+.loop_for_gallery{
+	height: 26.8%;
+	width: 29.3%;
+	/*background-color: pink;*/
+	float: left;
+	margin: 0.5%;
+	margin-bottom: 45px; 
+}
+.div_img_home{
+	height: 510px;
+	width: 1260px;
+	float: left;
+}
+/*.div_img_home img {  
+    padding: 15px;  
+    border:  1px solid #ccc;  
+    background-color: #eee;  
+    width:  80em; 
+    height: 40em; 
+    top:  0; 
+    left: 0 
+} */
+.slider {  
+    height:  100%;  
+    width:   100%;  
+    padding: 0;  
+    margin:  0;  
+} 
+.slider img {  
+   /* padding: 15px;  
+    border:  1px solid #ccc;  
+    background-color: #eee;  */
+    width:  100%; 
+    height: 100%; 
+    top:  0; 
+    left: 0 
+} 
+.to_be_shaked:hover {
+    /* Start the shake animation and make the animation last for 0.5 seconds */
+    animation: shake 0.5s;
+    /* When the animation is finished, start again */
+    animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+}

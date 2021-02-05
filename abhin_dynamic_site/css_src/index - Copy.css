@@ -1,0 +1,206 @@
+.maindiv{
+	height: auto;
+	width: auto;
+	/*background-color: red;*/
+	margin:0px;
+}
+.headerdiv{
+	height: auto;
+	width: auto;
+	background-color:  #080A0C;
+	margin: 3px;
+	border: 2px;
+}
+.logoimgdiv{
+	height: auto;
+	width: auto;
+	/*background-color: green;*/
+	margin: 45px 5px 5px 5px;
+	float: left;
+}
+.menudiv{
+	height: auto;
+	width: auto;
+	margin: auto;
+	/*background-color: pink;*/
+	float: left;
+	padding: 10px 0px 0px 40px;
+}
+.bodydiv{
+	height: auto;
+	width: auto;
+	/*background-color: pink;*/
+	margin-left: 3px;
+	border: 2px;
+
+}
+.footerdiv{
+	height: auto;
+	width: auto;
+	/*background-color: purple;*/
+	margin:0px 0px 2px 3px;
+	border: 2px;
+
+}
+.h5{
+	font-size: 10px;
+	color: white;
+	/*text-align: bottom;*/
+}
+.image_home{
+	height: auto;
+	width: 100%;
+
+}
+.div_social{
+	height: 180px;
+	width: 30px;
+	float: left;
+	/*background-color: red;*/
+	margin-top: 250px;
+	margin-right: 5px;
+}
+.img_social{
+	height: 40px;
+	width: 28px;
+	/*margin-bottom: 2px;*/
+}
+.div_current_page{
+	height: 30px;
+	width: 1000px;
+	/*background-color: red;*/
+	float: left;
+}
+.h2_stat{
+	font-size: 10px;
+	padding: 0px;
+	color: white;
+}
+.a_stat{
+	text-decoration: none;
+
+	/*font-family: monospace;*/
+	color: red;
+}
+.bodydiv_gallery{
+	height: auto;
+	width: auto;
+	/*background-color: purple;*/
+	margin-left: 3px;
+	border: 2px;
+
+}
+.img_gallery{
+	height: auto;
+	width: 45%;
+	margin: 0px;
+}
+.div_current_page_gallery{
+	height: 30px;
+	width: 1200px;
+	/*background-color: red;*/
+	float: left;
+}
+.div_social_gallery{
+	height: auto;
+	width: 30px;
+	float: right;
+	/*background-color: red;*/
+	margin-top: 250px;
+	margin-right: 5px;
+}
+/*.image_new_page{
+	height: 500px;
+	width: 500px;
+	background-color: red;
+}*/
+.centimg{
+	height: 250px;
+	width: 540px;
+	color: green;
+	/*margin: 0px 5px 5px 0px;*/
+	
+}
+.side_panel{
+	height: 600px;
+	width: 550px;
+	float: right;
+	/*background-color: green;*/
+	margin: 15px;
+}
+.img_small_for_accomodation{
+	height: 100px;
+	width: 150px;
+}
+.left_panel_aside{
+	height: 1250px;
+	width: 205px;
+	/*background-color: pink;*/
+	float: left;
+	margin: 2px;
+	color: white;
+}
+img.resize {
+  width:150px;
+  height:100px;
+}
+.dev_img_space{
+	width:400px;
+	height: 200px;
+	float: left;
+}
+img.developer {
+  width:200px;
+  height:170px;
+}
+.developer_logo{
+	width: 1140px;
+	height: 130px;
+	/*background-color: red;*/
+}
+.developer_div{
+	width: 1140px;
+	height: 180px;
+/*	background-color: red;
+*/}
+.developer_name{
+	font-size: 20px;
+	color: red;
+}
+.img_radius{
+	border-radius: 30px;
+}
+.h2_1{
+	font-size: 15px;
+	padding: 0px;
+	color: white;
+}
+.div_social_dev{
+	height: 400px;
+	width: 30px;
+	float: left;
+	/*background-color: red;*/
+	margin-top: 250px;
+	margin-right: 5px;
+}
+.div_prgmdtl{
+	height: 300px;
+	width: 900px;
+	float: left;
+	margin-left: 200px;
+	/*background-color: green;*/
+}
+.about_us{
+	height: 100px;
+	width: 200px;
+	/*color: white;*/
+	/*float:right;*/
+}
+.lorem_text{
+	color: white;
+}
+.about_us_compactbox
+{
+	height: 300px;
+	width: 1200px;
+}
